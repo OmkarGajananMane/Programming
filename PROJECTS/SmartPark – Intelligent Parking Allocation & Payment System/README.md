@@ -878,7 +878,7 @@ javac program1017.java
 ## 4. Run
 
 ```bash
-java program1017
+java SmartPark
 ```
 
 ---
